@@ -68,8 +68,6 @@ After uploading a chat file and selecting a user, the application will show insi
 
 ![Screenshot 2024-11-01 215200](https://github.com/user-attachments/assets/af568865-daff-4f78-87ca-115ace5a70e1)
 
-![Screenshot 2024-11-01 215221](https://github.com/user-attachments/assets/3d72a0c5-269c-41a3-84fc-2b66184840f8)
-
 ![Screenshot 2024-11-01 215250](https://github.com/user-attachments/assets/2cf06467-d9fc-4d48-b2bb-7557d8fc3f2e)
 
 
