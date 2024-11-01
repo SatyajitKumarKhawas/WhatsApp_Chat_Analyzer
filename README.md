@@ -81,5 +81,3 @@ After uploading a chat file and selecting a user, the application will show insi
 - **Sentiment Analysis**: Add features to analyze the sentiment of the messages.
 - **Export Data**: Allow users to download the analysis report as a PDF or CSV.
 
-## URL
-https://whatsappchatanalyzer-data-analysis.streamlit.app/
