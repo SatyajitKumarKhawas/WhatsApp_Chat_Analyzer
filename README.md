@@ -15,10 +15,6 @@ The **WhatsApp Chat Analyzer** is a Streamlit application designed to analyze Wh
   - Activity maps for the busiest days and months.
   - Timelines showing daily and monthly message trends.
 
-## Demo
-
-You can access the deployed application here:  https://whatsappchatanalyzer-data-analysis.streamlit.app/
-_Replace with the actual URL once deployed._
 
 ## Setup Instructions
 
@@ -87,3 +83,5 @@ After uploading a chat file and selecting a user, the application will show insi
 - **Sentiment Analysis**: Add features to analyze the sentiment of the messages.
 - **Export Data**: Allow users to download the analysis report as a PDF or CSV.
 
+## URL
+https://whatsappchatanalyzer-data-analysis.streamlit.app/
